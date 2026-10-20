@@ -12,7 +12,7 @@ We  detect if there is a person in the ToF array frame or not.
 
 ## Collection
 
-
+We will collect data capturing frames of a person in different orientations / poses and from varying distances.
 
 ## Risk
 
